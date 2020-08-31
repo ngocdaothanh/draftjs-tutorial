@@ -4,10 +4,14 @@ body {
 
 #editor {
   border: solid silver 1px;
-  min-height: 500px;
+  min-height: 200px;
   margin-bottom: 1em;
 }
 
 .DraftEditor-root span {
   line-height: 1.5em;
+}
+
+pre {
+  white-space: pre-wrap;
 }
