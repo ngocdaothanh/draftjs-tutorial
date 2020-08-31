@@ -1,0 +1,13 @@
+body {
+  padding: 1em;
+}
+
+#editor {
+  border: solid silver 1px;
+  min-height: 500px;
+  margin-bottom: 1em;
+}
+
+.DraftEditor-root span {
+  line-height: 1.5em;
+}
